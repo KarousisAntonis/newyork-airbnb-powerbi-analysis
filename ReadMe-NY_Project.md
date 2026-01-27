@@ -1,6 +1,6 @@
 # New York City Airbnb Analysis
 
-![New York City](images/nyc_skyline.png)
+![New York City](images/New_York_City.png)
 
 An interactive data exploration of Airbnb listings in New York City to guide new hosts on optimal location, room type, and pricing for competitive bookings.
 
@@ -43,10 +43,10 @@ This repository is organized as follows:
 
 Here are some snapshots of the dashboard:  
 
-![Dashboard Image 1](images/image1.png)
-![Dashboard Image 2](images/image2.png)
-![Dashboard Image 3](images/image3.png)
-![Dashboard Image 4](images/image4.png)	
+![Dashboard Image 1](images/Dashboard_Image_1.png)
+![Dashboard Image 2](images/Dashboard_Image_2.png)
+![Dashboard Image 3](images/Dashboard_Image_3.png)
+![Dashboard Image 4](images/Dashboard_Image_4.png)	
 ---
 
 
